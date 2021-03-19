@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "UMD",
+    "strict": true,
+    "outDir": "dist",
+    "declaration": true,
+    "moduleResolution": "Node",
+    "esModuleInterop": true,
+    "lib": [
+      "ES5",
+      "DOM"
+    ],
+    "sourceMap": true
+  }
+}
